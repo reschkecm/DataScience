@@ -1,4 +1,4 @@
-###  Title: Shiny Application for U of U Job Application
+###  Title: Shiny Application for University of Utah Project
 ###  Author: Cory Reschke
 ###  Date: 5-22-2017
 
